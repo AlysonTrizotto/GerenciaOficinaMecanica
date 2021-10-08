@@ -1,0 +1,22 @@
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\bin\Debug\net5.0-windows\Gerenciador Oficina.exe
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\bin\Debug\net5.0-windows\Gerenciador Oficina.deps.json
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\bin\Debug\net5.0-windows\Gerenciador Oficina.runtimeconfig.json
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\bin\Debug\net5.0-windows\Gerenciador Oficina.runtimeconfig.dev.json
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\bin\Debug\net5.0-windows\Gerenciador Oficina.dll
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\bin\Debug\net5.0-windows\ref\Gerenciador Oficina.dll
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\bin\Debug\net5.0-windows\Gerenciador Oficina.pdb
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.csproj.AssemblyReference.cache
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\App.g.cs
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina_MarkupCompile.cache
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina_MarkupCompile.lref
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.g.resources
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.GeneratedMSBuildEditorConfig.editorconfig
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.AssemblyInfoInputs.cache
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.AssemblyInfo.cs
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.csproj.CoreCompileInputs.cache
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.dll
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\ref\Gerenciador Oficina.dll
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.pdb
+E:\Oficina Mecanica\Gerenciador Oficina\Gerenciador Oficina\obj\Debug\net5.0-windows\Gerenciador Oficina.genruntimeconfig.cache
